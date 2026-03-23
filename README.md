@@ -10,8 +10,8 @@
 
 *Running on caffeine, duct tape, and questionable decisions.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-stas--nikolaievskyi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stas-nikolaievskyi)
-[![Website](https://img.shields.io/badge/GitHub_Pages-Portfolio-222222?style=for-the-badge&logo=github&logoColor=white)](https://astralborn.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stas-nikolaievskyi)
+[![Website](https://img.shields.io/badge/Website-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://astralborn.github.io/)
 
 </div>
 
