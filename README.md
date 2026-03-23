@@ -2,6 +2,8 @@
 
 # Hey, I'm Stas 👋
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vcenter=true&width=600&lines=Breaking+Things+Professionally;Test+Automation+Engineer;Will+Write+Tests+for+Coffee;Hardware+Whisperer;Automating+the+Boring+Stuff)
+
 ### Test Automation Engineer · Prague, Czech Republic
 
 *Test Automation Engineer with 3+ years of experience in embedded systems and industrial networking. I build Python-based test frameworks, automate CI pipelines, and work close to the hardware — from protocol-level testing to web UI regression.*
@@ -10,6 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-stas--nikolaievskyi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stas-nikolaievskyi)
 [![Email](https://img.shields.io/badge/Email-stas.nikolaevski@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stas.nikolaevski@gmail.com)
+[![Website](https://img.shields.io/badge/Website-astralborn.github.io-00BFFF?style=for-the-badge&logo=githubpages&logoColor=white)](https://astralborn.github.io/)
 
 </div>
 
