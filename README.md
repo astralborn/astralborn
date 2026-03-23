@@ -1,9 +1,7 @@
 <div align="center">
 
 # Hey, I'm Stas 👋
-
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vcenter=true&width=600&lines=Breaking+Things+Professionally;Will+Write+Tests+for+Coffee;Hardware+Whisperer;Automating+the+Boring+Stuff)
-
 ### Test Automation Engineer · Prague, Czech Republic
 
 *Test Automation Engineer with 3+ years of experience in embedded systems and industrial networking. I build Python-based test frameworks, automate CI pipelines, and work close to the hardware — from protocol-level testing to web UI regression.*
