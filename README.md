@@ -13,8 +13,20 @@
 
 ---
 
+<details>
+<summary>🧑‍💻 About Me</summary>
+<br>
 
-## 🛠️ Tech Stack
+- 🔧 Currently at **2N Telecommunications** — automated testing for embedded intercom devices & web interfaces
+- 🏭 Previously at **Rockwell Automation** — test automation for industrial EtherNet/IP networking libraries
+- 🐍 Python is my daily driver — test frameworks, CI tooling, desktop apps
+- 🎓 B.S. Electrical Engineering — Czech Technical University in Prague
+
+</details>
+
+<details>
+<summary>🛠️ Tech Stack</summary>
+<br>
 
 **Programming & Automation**
 
@@ -45,4 +57,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-
+</details>
