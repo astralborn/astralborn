@@ -1,13 +1,10 @@
 <div align="center">
 
-# Hey, I'm Stas 👋
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vcenter=true&width=600&lines=Breaking+Things+Professionally;Will+Write+Tests+for+Coffee;Hardware+Whisperer;Automating+the+Boring+Stuff)
+# Hey, I'm Stas 👋 · Test Automation Engineer · Prague
 
-### Test Automation Engineer · Prague, Czech Republic
-*Embedded systems · Python frameworks · CI/CD · Close to the hardware*
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=00BFFF&center=true&vcenter=true&width=500&height=30&lines=Breaking+Things+Professionally;Will+Write+Tests+for+Coffee;Hardware+Whisperer;Automating+the+Boring+Stuff)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/stas-nikolaievskyi)
-[![Website](https://img.shields.io/badge/Website-00BFFF?style=flat-square&logo=googlechrome&logoColor=white)](https://astralborn.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/stas-nikolaievskyi) [![Website](https://img.shields.io/badge/Website-00BFFF?style=flat-square&logo=googlechrome&logoColor=white)](https://astralborn.github.io/)
 
 </div>
 
