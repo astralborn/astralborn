@@ -10,10 +10,9 @@
 
 ---
 
-<summary>🧑‍💻 About Me</summary>
-<br>
+🧑‍💻 About Me
 
-- 🔧 Currently at **2N Telecommunications** — automated testing for embedded intercom devices & web interfaces
-- 🏭 Previously at **Rockwell Automation** — test automation for industrial EtherNet/IP networking libraries
-- 🐍 Python is my daily driver — test frameworks, CI tooling, desktop apps
-- 🎓 B.S. Electrical Engineering — Czech Technical University in Prague
+➤ Currently at **2N Telecommunications** — automated testing for embedded intercom devices & web interfaces
+➤ Previously at **Rockwell Automation** — test automation for industrial EtherNet/IP networking libraries
+➤ Python is my daily driver — test frameworks, CI tooling, desktop apps
+➤ B.S. Electrical Engineering — Czech Technical University in Prague
